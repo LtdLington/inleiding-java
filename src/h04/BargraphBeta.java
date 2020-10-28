@@ -3,7 +3,7 @@ package h04;
 import java.awt.*;
 import java.applet.*;
 
-public class Bargraph extends Applet {
+public class BargraphBeta extends Applet {
 
     public void init() {
     }

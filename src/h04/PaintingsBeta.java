@@ -3,7 +3,7 @@ package h04;
 import java.awt.*;
 import java.applet.*;
 
-public class Paintings extends Applet {
+public class PaintingsBeta extends Applet {
 
     public void init() {
     }
