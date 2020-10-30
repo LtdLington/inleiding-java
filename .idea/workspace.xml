@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1280b807-bacc-444c-bb1a-d81a57041aa4" name="Default Changelist" comment="H5 variabelen opdracht 5.1&#10;Alpha version paintings h4 added">
+      <change afterPath="$PROJECT_DIR$/src/h05/BargraphAlpha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h06/Getallen1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h06/Getallen2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h06/Praktijk6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h05/PaintingsAlpha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h05/PaintingsAlpha.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jR9SnD9IrxSTLcj3xvATJOo1gx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Applet.PaintingsAlpha">
+    <configuration name="Getallen1" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h06.Getallen1" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Getallen2" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h06.Getallen2" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Getallen3" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h06.Getallen3" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaintingsAlpha" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h05.PaintingsAlpha" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Praktijk6" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h06.Praktijk6" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Applet.PaintingsAlpha" />
+        <item itemvalue="Applet.Praktijk6" />
+        <item itemvalue="Applet.Getallen3" />
+        <item itemvalue="Applet.Getallen2" />
+        <item itemvalue="Applet.Getallen1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1280b807-bacc-444c-bb1a-d81a57041aa4" name="Default Changelist" comment="" />
+      <created>1603756040199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603756040199</updated>
+      <workItem from="1603756041669" duration="1254000" />
+      <workItem from="1603757316937" duration="47566000" />
+    </task>
+    <task id="LOCAL-00001" summary="1e commit / opfris cursus java">
+      <created>1603756318041</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603756318041</updated>
+    </task>
+    <task id="LOCAL-00002" summary="h2 applets opdrachten added">
+      <created>1603759791971</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603759791971</updated>
+    </task>
+    <task id="LOCAL-00003" summary="h4 tekenen applet opdrachten added">
+      <created>1603848420939</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603848420939</updated>
+    </task>
+    <task id="LOCAL-00004" summary="h4 tekenen applet opdrachten added v2">
+      <created>1603848541731</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603848541731</updated>
+    </task>
+    <task id="LOCAL-00005" summary="h4 tekenen praktijkopdracht">
+      <created>1603903040653</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603903040653</updated>
+    </task>
+    <task id="LOCAL-00006" summary="H5 variabelen opdracht 5.1&#10;Alpha version paintings h4 added">
+      <created>1603927794307</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603927794307</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1e commit / opfris cursus java" />
+    <MESSAGE value="h2 applets opdrachten added" />
+    <MESSAGE value="h4 tekenen applet opdrachten added" />
+    <MESSAGE value="h4 tekenen applet opdrachten added v2" />
+    <MESSAGE value="h4 tekenen praktijkopdracht" />
+    <MESSAGE value="H5 variabelen opdracht 5.1&#10;Alpha version paintings h4 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="H5 variabelen opdracht 5.1&#10;Alpha version paintings h4 added" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="123" key="GridCell.Tab.0.bottom" timestamp="1604019317202">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="123" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.1024.768@0.0.1280.720" timestamp="1604019317202" />
+    <state width="981" height="135" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.1024.768@1920.0.1024.768" timestamp="1603756452739" />
+    <state width="1237" height="123" key="GridCell.Tab.0.center" timestamp="1604019317202">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="123" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.1024.768@0.0.1280.720" timestamp="1604019317202" />
+    <state width="981" height="135" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.1024.768@1920.0.1024.768" timestamp="1603756452739" />
+    <state width="1237" height="123" key="GridCell.Tab.0.left" timestamp="1604019317202">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="123" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.1024.768@0.0.1280.720" timestamp="1604019317202" />
+    <state width="981" height="135" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.1024.768@1920.0.1024.768" timestamp="1603756452739" />
+    <state width="1237" height="123" key="GridCell.Tab.0.right" timestamp="1604019317202">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="123" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.1024.768@0.0.1280.720" timestamp="1604019317202" />
+    <state width="981" height="135" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.1024.768@1920.0.1024.768" timestamp="1603756452739" />
+    <state x="142" y="6" key="SettingsEditor" timestamp="1603757301684">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="6" key="SettingsEditor/0.0.1280.720/1920.0.1024.768@0.0.1280.720" timestamp="1603757301684" />
+    <state x="130" y="110" key="Vcs.Push.Dialog.v2" timestamp="1603927804571">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="130" y="110" key="Vcs.Push.Dialog.v2/0.0.1280.720/1920.0.1024.768@0.0.1280.720" timestamp="1603927804571" />
+    <state x="2024" y="117" key="Vcs.Push.Dialog.v2/0.0.1280.720/1920.0.1024.768@1920.0.1024.768" timestamp="1603756473785" />
+    <state x="0" y="0" width="587" height="720" key="find.popup" timestamp="1603901462906">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="0" y="0" width="587" height="720" key="find.popup/0.0.1280.720/1920.0.1024.768@0.0.1280.720" timestamp="1603901462906" />
+  </component>
+</project>

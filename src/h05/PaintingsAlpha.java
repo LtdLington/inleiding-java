@@ -32,6 +32,7 @@ public class PaintingsAlpha extends Applet {
         lijn = "Lijn";
     }
     public void paint(Graphics g) {
+        g.drawString("Maak praktijkopdracht van Hoofdstuk 4 opnieuw, maar maak nu gebruik van de volgende variabelen:",20,20);
         g.setColor(paars);
         g.fillOval(300, 50, x,y);
         g.fillOval(300, 170, x,y);
