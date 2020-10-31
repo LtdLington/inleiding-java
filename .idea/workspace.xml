@@ -19,13 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1280b807-bacc-444c-bb1a-d81a57041aa4" name="Default Changelist" comment="H6 getallen met opdrachten toegevoegd.">
-      <change afterPath="$PROJECT_DIR$/src/h07/Venster1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h08/Opdracht81.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h08/Opdracht82.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h08/Opdracht83.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h08/Praktijk8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1280b807-bacc-444c-bb1a-d81a57041aa4" name="Default Changelist" comment="H8 opdrachten toegevoegd">
+      <change beforePath="$PROJECT_DIR$/src/h08/Praktijk8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h08/Praktijk8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +119,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603756040199</updated>
       <workItem from="1603756041669" duration="1254000" />
-      <workItem from="1603757316937" duration="75833000" />
+      <workItem from="1603757316937" duration="76122000" />
     </task>
     <task id="LOCAL-00001" summary="1e commit / opfris cursus java">
       <created>1603756318041</created>
@@ -175,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604019584285</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="H8 opdrachten toegevoegd">
+      <created>1604105751799</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1604105751799</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,7 +203,8 @@
     <MESSAGE value="h4 tekenen praktijkopdracht" />
     <MESSAGE value="H5 variabelen opdracht 5.1&#10;Alpha version paintings h4 added" />
     <MESSAGE value="H6 getallen met opdrachten toegevoegd." />
-    <option name="LAST_COMMIT_MESSAGE" value="H6 getallen met opdrachten toegevoegd." />
+    <MESSAGE value="H8 opdrachten toegevoegd" />
+    <option name="LAST_COMMIT_MESSAGE" value="H8 opdrachten toegevoegd" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1237" height="123" key="GridCell.Tab.0.bottom" timestamp="1604105635298">
@@ -228,10 +231,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="142" y="6" key="SettingsEditor/0.0.1280.720/1920.0.1024.768@0.0.1280.720" timestamp="1603757301684" />
-    <state x="130" y="110" key="Vcs.Push.Dialog.v2" timestamp="1604019595053">
+    <state x="130" y="110" key="Vcs.Push.Dialog.v2" timestamp="1604105762049">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="130" y="110" key="Vcs.Push.Dialog.v2/0.0.1280.720/1920.0.1024.768@0.0.1280.720" timestamp="1604019595053" />
+    <state x="130" y="110" key="Vcs.Push.Dialog.v2/0.0.1280.720/1920.0.1024.768@0.0.1280.720" timestamp="1604105762049" />
     <state x="2024" y="117" key="Vcs.Push.Dialog.v2/0.0.1280.720/1920.0.1024.768@1920.0.1024.768" timestamp="1603756473785" />
     <state x="0" y="0" width="587" height="720" key="find.popup" timestamp="1603901462906">
       <screen x="0" y="0" width="1280" height="720" />

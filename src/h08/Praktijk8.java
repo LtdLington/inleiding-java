@@ -96,8 +96,6 @@ public class Praktijk8 extends Applet {
             tekstvak.setText(""+som);
             tekstvak2.setText(" ");
             repaint();
-
-            repaint();
         }
     }
 
