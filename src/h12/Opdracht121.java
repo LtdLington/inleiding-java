@@ -9,13 +9,13 @@ public class Opdracht121  extends Applet {
     public void init() {
         salaris = new double [10];
         for (int teller = 0; teller < salaris.length; teller ++) {
-            salaris[teller] = 100 * teller + 100;
+            salaris[teller] = (100 * teller) + 100;
         }
         for (int teller = 0; teller < salaris.length; teller ++) {
             totaal += salaris[teller];
         }
         for (int teller = 0; teller < salaris.length; teller ++) {
-            gemiddeld = totaal / salaris.length;
+            gemiddeld = (totaal / salaris.length);
         }
     }
     public void paint(Graphics g) {
