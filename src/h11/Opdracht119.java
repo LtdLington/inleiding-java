@@ -1,22 +1,33 @@
 package h11;
-import java.applet.*;
-import java.awt.*;
-public class Opdracht119 extends Applet {
+import java.awt.Color;
+import java.awt.Graphics;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
 
-    public void init() {
-        setSize(1200,950);
-    }
+public class Opdracht119 extends JPanel{
 
-    public void paint(Graphics g) {
-        int teller;
-        int y = 550;
-        int x = 600;
-        int breedte = 5;
-        int hoogte = 5;
+    public void paint(Graphics g){
 
-        for(teller = 0; teller < 100; teller++) {
-            g.drawOval (x - 10 * teller,y - 10 * teller, breedte + teller * 20, hoogte + teller * 20);
-
+        g.fillRect(100, 100, 400, 400);
+        for(int i = 100; i <= 400; i+=100){
+            for(int j = 100; j <= 400; j+=100){
+                g.clearRect(i, j, 50, 50);
+            }
         }
+
+        for(int i = 150; i <= 450; i+=100){
+            for(int j = 150; j <= 450; j+=100){
+                g.clearRect(i, j, 50, 50);
+            }
+        }
+    }
+    public static void main(String[] args){
+        JFrame frame = new JFrame();
+        frame.setSize(600,600);
+        frame.getContentPane().add(new Opdracht119());
+        frame.setLocationRelativeTo(null);
+        frame.setBackground(Color.LIGHT_GRAY);
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.setVisible(true);
     }
 }
