@@ -2,48 +2,43 @@ package h12;
 
 import java.awt.*;
 import java.applet.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
+import java.awt.event.*;
 import java.util.*;
 
-
 public class Opdracht123 extends Applet {
-   TextField[] tekstvak;
-   //Label label;
-   Button knop;
-   int getal, getal2,getal3,getal4,getal5;
+    TextField tekstvakken[];
+    int nummers[];
+    Button knop;
+    int y;
 
     public void init() {
-        tekstvak = new TextField[5];
-        knop = new Button("Ok");
-        knop.addActionListener(new KnopListener());
-        //label = new Label("Typ nummers in de tekstvakken & druk op ok om ze op volgorde te sorteren");
-        //add(label);
-        add(knop);
-        for (int teller = 0; teller < tekstvak.length; teller ++) {
-            tekstvak[teller] = new TextField("");
-            add(tekstvak[teller]);
+        tekstvakken = new TextField[5];
+        nummers = new int[5];
+        for (int i = 0; i < 5; i++) {
+            tekstvakken[i] = new TextField("", 1);
+            add(tekstvakken[i]);
         }
-        //Arrays.sort(tekstvak);
+        knop = new Button("ok");
+        knop.addActionListener(new KnopListener());
+        add(knop);
     }
 
-    public void paint(Graphics g) {
-        for (int teller = 0; teller < tekstvak.length; teller ++) {
-            g.drawString("" + tekstvak[teller], 50, 20 * teller + 20);
+    public void paint(Graphics g)  {
+        y = 60;
+        for (int i = 0; i < 5; i++) {
+            g.drawString("" + nummers[i], 50, y);
+            y += 15;
         }
     }
+
     class KnopListener implements ActionListener {
         public void actionPerformed( ActionEvent e ) {
-            String s = tekstvak[0].getText();
-            getal = Integer.parseInt(s);
-            String s1 = tekstvak[1].getText();
-            getal2 = Integer.parseInt(s1);
-            String s2 = tekstvak[2].getText();
-            getal3 = Integer.parseInt(s2);
-            String s3 = tekstvak[3].getText();
-            getal4 = Integer.parseInt(s3);
-            String s4 = tekstvak[4].getText();
-            getal5 = Integer.parseInt(s4);
+            for (int i = 0; i < 5; i++) {
+                String s = tekstvakken[i].getText();
+                nummers[i] = Integer.parseInt(s);
+                tekstvakken[i].setText("");
+            }
+            Arrays.sort(nummers);
             repaint();
         }
     }
